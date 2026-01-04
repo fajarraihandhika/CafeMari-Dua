@@ -939,7 +939,7 @@ endforeach;
   <div class="container">
     <div class="row">
       <div class="col-md-4 mb-4" data-aos="fade-up">
-        <h3 class="footer-brand">MARI-DUA</h3>
+        <h3 class="footer-brand">MARI</h3>
         <p style="color: #666; line-height: 1.8;">Pengalaman kopi premium dalam suasana yang elegan dan nyaman.</p>
       </div>
       <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
